@@ -40,3 +40,31 @@ nav li {
     list-style: none;
     margin-left: 50px;
 }
+
+/* banner styles */
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 75px;
+}
+
+.iqbal {
+    color: #FD6E0A;
+}
+
+.banner-sub-title {
+    font-weight: 600;
+    font-size: 35px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.banner-description {
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
